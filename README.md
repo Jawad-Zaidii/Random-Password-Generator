@@ -1,2 +1,1 @@
-# Random-Password-Generator
-This repository contains a program that generates secure and randomized passwords, ensuring enhanced data protection and password strength.
+The Random Password Generator is a command-line program designed to generate strong and secure passwords. With this tool, you can easily create complex passwords consisting of a combination of letters, numbers, and special characters. By using this generator, you can enhance the security of your accounts and protect sensitive information. This README file provides instructions on how to use the program and customize password generation settings to meet your specific requirements. Start generating robust passwords with ease using the Random Password Generator.
